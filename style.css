@@ -1,0 +1,80 @@
+h1
+{
+    color:#fc0dad;
+    font-size: 30px;
+}
+body {
+    font-family: 'Arvo' ;
+    margin-left: 0px;
+}
+.my-div {
+    float: left;
+    width: 40%;
+    margin: 2% 5%;
+    border-radius: 5px;
+    text-align: justify;
+}
+.links {
+        text-decoration: none;
+        background-color: #ff5599;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.biography
+{
+    margin-top: 20%;
+}
+section{
+        height: 500px;
+        padding-bottom: 150px;
+        background-position: center;
+        background-repeat: no-rpeat;
+        background-size: 100%;
+    }
+.header-section{
+    background-image: url(images/header-bg.png);
+  }
+.biography-section{
+    background-image: url(images/biography-bg.png);
+    }
+.last-section{
+    background-image: url(images/latest-work-bg.png);
+}
+.latest-work{
+    background-image: url(images/footer-bg.png);
+}
+.last-div{
+    margin-top: 5%;
+    text-align: center;
+}
+.img-glry
+{
+float: left;
+width: 30%;
+}
+.img-glry:hover{
+    width: 35%;
+    position: relative;
+}
+h4{
+    color: gray;
+}
+#lorem{
+    margin: 3% 20% 3% 20%;
+}
+#messege{
+    height: 30%;
+    width: 40%;
+    background-color: hotpink;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 5px;
+    background-image: linear-gradient(45deg, #fa0594, #fa235c );
+    color: white;
+}
