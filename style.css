@@ -1,6 +1,6 @@
 h1
 {
-    color:#fc0dad;
+    color: #fa235c;
     font-size: 30px;
 }
 body {
@@ -16,7 +16,7 @@ body {
 }
 .links {
         text-decoration: none;
-        background-color: #ff5599;
+        background-image: linear-gradient(45deg,  #fa0594, #fa235c);
         padding: 10px 20px;
         border-radius: 5px;
         color: white;
